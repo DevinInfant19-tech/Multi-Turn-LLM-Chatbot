@@ -1,4 +1,4 @@
-# StudyBuddy - Multi-Turn Gemini Chatbot
+## - Multi-Turn Gemini Chatbot
 
 A beginner-friendly chatbot made with Python, Flask, HTML, CSS, JavaScript, and the Google Gemini API.
 
